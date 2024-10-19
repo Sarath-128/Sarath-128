@@ -5,8 +5,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-Contact me on
-www.linkedin.com/in/sarath-k-s-pavi
+Contact me
+## Connect with me
+- [LinkedIn](www.linkedin.com/in/sarath-k-s-pavi)
+
+
 
 <!---
 Sarath-128/Sarath-128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
