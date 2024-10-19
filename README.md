@@ -1,4 +1,4 @@
-#👋 Hi, I’m @Sarath K S
+#Hi👋, I’m @Sarath K S
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Deploma in Artificial Intelligence 
 - 📫 How to reach me ...
