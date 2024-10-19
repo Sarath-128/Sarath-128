@@ -1,4 +1,4 @@
-#Hi👋, I’m @Sarath K S
+
 # Hi👋, I’m @Sarath K S
 
 Aspiring web developer proficient in **Python**, **Django**, **React**, and databases, with a solid foundation in object-oriented programming, **C**, and **Java**. Committed to building high-quality, efficient web applications, and skilled in design principles and full-stack development. Eager to explore the field of **machine learning** with Python as the next step in my career.
@@ -12,7 +12,7 @@ Aspiring web developer proficient in **Python**, **Django**, **React**, and data
 ## 🏫 Education
 - **B.Tech in Computer Science and Engineering**  
   Indira Gandhi Institute of Engineering and Technology, Kothamangalam, Kerala  
-  CGPA: 6.59 (Graduated in 2024)
+  Graduated in 2024 
   
 - **Advanced Diploma in Artificial Intelligence and Machine Learning**  
   Gith Global India Techno Hub, Ernakulam, Kerala  
