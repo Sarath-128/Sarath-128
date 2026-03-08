@@ -1,47 +1,66 @@
+<h1 align="center">Hi, I'm Sarath K S 👋</h1>
 
-# Hi👋, I’m @Sarath K S
+<p align="center">
+  <b>Python Django Full-Stack Developer · FinTech Enthusiast</b><br/>
+  Malappuram, Kerala, India
+</p>
 
-Aspiring web developer proficient in **Python**, **Django**, **React**, and databases, with a solid foundation in object-oriented programming, **C**, and **Java**. Committed to building high-quality, efficient web applications, and skilled in design principles and full-stack development. Eager to explore the field of **machine learning** with Python as the next step in my career.
+<p align="center">
+  <a href="https://linkedin.com/in/sarath-k-s-pavi">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://sarath-k-s.web.app/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" />
+  </a>
+  <a href="mailto:pavisarath2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-## 🚀 Skills
-- **Languages**: Python, C, Java, JavaScript, HTML, CSS
-- **Frameworks**: Django, React JS, Flutter, jQuery, Bootstrap
-- **Databases**: MySQL, PostgreSQL
-- **Other Skills**: REST APIs, Django Rest Framework, OOP
+---
 
-## 🏫 Education
-- **B.Tech in Computer Science and Engineering**  
-  Indira Gandhi Institute of Engineering and Technology, Kothamangalam, Kerala  
-  Graduated in 2024 
-  
-- **Advanced Diploma in Artificial Intelligence and Machine Learning**  
-  Gith Global India Techno Hub, Ernakulam, Kerala  
-  (Currently pursuing)
+### 🧑‍💻 About Me
 
-## 💼 Internships
-- **Android Flutter Development**  
-  Luminar Technolab, Kochi (2023)
-  
-- **Python Django Full Stack Development**  
-  Inmakes Learning Hub, Kochi (2024)
+Backend developer with experience in **FinTech** — building currency exchange systems, AML workflows, and secure REST APIs. Currently working at **Finnest Technologies**, Kochi.
 
-## 📚 Projects
-- **FloorMaster**: Autonomous self-reconfigurable floor cleaner robot
-- **PayScale**: AI-based digital weighing scale with instant UPI payments (Android app)
-- **BookHub**: A Comprehensive Library Management System
+---
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/sarath-k-s-55691926a)
-- [GitHub](https://github.com/Sarath-128)
+### 🛠️ Tech Stack
 
-## 📧 Contact
-- **Email**: pavisarath2002@gmail.com
-- **Phone**: +91 70341 65018
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
+---
 
+### 📌 Projects
 
+| Project | Tech | Description |
+|--------|------|-------------|
+| **ElecRo** | Django, Stripe | E-commerce platform with cart & online payments |
+| **BookHub** | Django, React.js, REST API | Library management system with borrowing records |
 
-<!---
-Sarath-128/Sarath-128 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 🎓 Education
+
+**B.Tech – Computer Science & Engineering**  
+Indira Gandhi Institute of Engineering and Technology, Kochi *(2020 – 2024)*
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarath-k-s&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarath-k-s&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
