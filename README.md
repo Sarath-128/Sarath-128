@@ -21,7 +21,7 @@
 
 ### 🧑‍💻 About Me
 
-Backend developer with experience in **FinTech** — building currency exchange systems, AML workflows, and secure REST APIs. Currently working at **Finnest Technologies**, Kochi.
+Backend developer with **1+ year of experience in FinTech**, building currency exchange systems, AML workflows, and secure REST APIs. Currently working at **Finnest Technologies**, Kochi.
 
 ---
 
@@ -43,24 +43,3 @@ Backend developer with experience in **FinTech** — building currency exchange 
 </p>
 
 ---
-
-### 📌 Projects
-
-| Project | Tech | Description |
-|--------|------|-------------|
-| **ElecRo** | Django, Stripe | E-commerce platform with cart & online payments |
-| **BookHub** | Django, React.js, REST API | Library management system with borrowing records |
-
----
-
-### 🎓 Education
-
-**B.Tech – Computer Science & Engineering**  
-Indira Gandhi Institute of Engineering and Technology, Kochi *(2020 – 2024)*
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarath-k-s&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarath-k-s&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
